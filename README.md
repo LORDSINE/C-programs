@@ -1,4 +1,4 @@
-#Basic C programs
+# Basic C programs
 
 This is a repository created to write some basic C programs.
 
